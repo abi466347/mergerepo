@@ -3,3 +3,4 @@ console.log(a)
 
 let b = 100;
 console.log(b);
+let age =100;
